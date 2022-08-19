@@ -8,3 +8,4 @@ choices for voice and options to change the rate and pitch.
 - use javascript speechSynthesis to get the different voices and to turn the text into speech
 - Manipuate DOM to add voice options to user inteface
 - get value selected by user and call function to speak with the selected parameters
+- used css framework Bootstrap for styling
